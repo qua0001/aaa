@@ -1,7 +1,7 @@
 {
   "name": "test",
   "short_name": "Test",
-  "start_url": "index.html",
+  "start_url": "aaa",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
